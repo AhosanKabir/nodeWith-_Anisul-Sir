@@ -1,0 +1,1 @@
+This is just a sample. here goes everything document we want . this is the second peramiter. the first peramiter is a file name which we wanted to create.I am happy now. Because i am learning Node js
